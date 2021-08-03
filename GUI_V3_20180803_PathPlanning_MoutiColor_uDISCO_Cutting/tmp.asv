@@ -1,0 +1,7 @@
+
+commandTerminator ='' ;
+commandTerminator=strcat(commandTerminator,13);
+
+mmc.setSerialPortCommand('COM1', 'Z+30', commandTerminator);
+gui.sleep(2);
+mmc.setSerialPortCommand('COM1', 'Z-6000', commandTerminator);
