@@ -1,0 +1,11 @@
+Denoising_Algorithm: H1
+Iteration_Number: 50.0
+***
+Filter_Type: Gabor
+Noise_Level: 0.3
+Sigma_X: 1.0
+Sigma_Y: 1000.0
+Angle: 0.0
+Phase(psi): 0.0
+Lambda: 0.0
+***
