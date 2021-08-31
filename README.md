@@ -4,4 +4,4 @@
 Customized scripts for multiscale light sheet microscope and arduino controllers.
 
 Zhouzhou Zhang, Xiao Yao, Xinxin Yin, Zhangcan Ding, Tianyi Huang, Yan Huo, Runan Ji, Hanchuan Peng, Zengcai V. Guo  
-**Multiscale light-sheet fluorescence microscopy for fast whole brain imaging**
+**Multiscale light-sheet fluorescence microscopy for fast whole brain imaging** https://www.frontiersin.org/articles/10.3389/fnana.2021.732464/abstract
